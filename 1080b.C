@@ -1,3 +1,14 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Otávio Fernandes Caberlin
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1080
+Data        : 27/08/2026
+Objetivo    : Maior número entre 100 e sua posição (com alocação dinâmica de vetores).
+Dificuldade : Como utilizar alocação dinâmica de vetores.
+Uso de IA   : Não usei.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 #include <stdlib.h>
 
