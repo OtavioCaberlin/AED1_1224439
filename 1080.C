@@ -4,7 +4,7 @@ Nome        : Otávio Fernandes Caberlin
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1080
 Data        : 20/08/2026
-Objetivo    : Maior número entre 100 e sua posição.
+Objetivo    : Maior número entre 100 números e sua posição.
 Dificuldade : Como utilizar vetores e suas aplicações.
 Uso de IA   : Não usei.
 -------------------------------------------------------------------------- */
