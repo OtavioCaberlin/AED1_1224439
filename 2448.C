@@ -1,3 +1,14 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Otávio Fernandes Caberlin
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2448
+Data        : 01/10/2026
+Objetivo    : Calcular a distância total percorrida pelo carteiro.
+Dificuldade : Organizar os dados do problema.
+Uso de IA   : Não usei.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int buscaBinaria(int casas[], int n, int alvo) {
