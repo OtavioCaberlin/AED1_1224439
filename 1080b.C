@@ -4,7 +4,7 @@ Nome        : Otávio Fernandes Caberlin
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1080
 Data        : 27/08/2026
-Objetivo    : Maior número entre 100 e sua posição (com alocação dinâmica de vetores).
+Objetivo    : Maior número entre 100 números e sua posição (com alocação dinâmica de vetores).
 Dificuldade : Como utilizar alocação dinâmica de vetores.
 Uso de IA   : Não usei.
 -------------------------------------------------------------------------- */
