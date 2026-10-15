@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Algortimo e Estrutura de Dados 2026S1
+Nome        : Otávio Fernandes Caberlin
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1062
+Data        : 01/10/2026
+Objetivo    : Descobrir se é possível fazer um trem sair por um trilho de determinada maneira.
+Dificuldade : Organizar os vagões na estação para organizar a saída.
+Uso de IA   : Não usei.
+-------------------------------------------------------------------------- */
 
 #include <stdio.h>
 
