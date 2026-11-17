@@ -4,8 +4,8 @@ Nome        : Otávio Fernandes Caberlin
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1082
 Data        : 12/11/2026
-Objetivo    : .
-Dificuldade : .
+Objetivo    : Identificar e contar todos os grupos de vértices que possuem conexão entre si, direta ou indiretamente.
+Dificuldade : Identificar todos os grupos de vértices conectados utilizando DFS.
 Uso de IA   : Não usei.
 -------------------------------------------------------------------------- */
 
